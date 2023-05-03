@@ -1,4 +1,8 @@
 # python bolt 
+APIの学習のためにAWSも併せて実装してみる。  
+TODO
+  - CloudWatchで定期メッセージ送信  
+  - ChatGPT APIをつないでSlackでつかう
 
 ## publishing message
 ### ch-name2ch-id.py
